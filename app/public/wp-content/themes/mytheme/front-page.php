@@ -15,3 +15,7 @@ $heroImage = $heroImageArray['sizes']['large'];
  </h1>
  
 </div>
+
+<?php
+get_footer();
+?> 
