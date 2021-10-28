@@ -13,7 +13,7 @@
 </head>
 <body>
 <header>
-   <nav class="navbar navbar-light bg-light">
+   <nav class="navbar ">
   <div class="container">
     <a class="navbar-brand mx-auto" href="#">
       <?php

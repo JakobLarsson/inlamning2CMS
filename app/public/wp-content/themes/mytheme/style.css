@@ -19,4 +19,61 @@ html {
   padding: 0px;
   background-color: red;
   margin-top: 0 px !important;
+  color: white;
+}
+.navbar {
+  position: absolute;
+  top: 0px;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.2);
+}
+
+.content {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(
+    to right top,
+    #70ff62,
+    #5ff96c,
+    #4ef376,
+    #3ded7e,
+    #29e785,
+    #00db91,
+    #00cf9a,
+    #00c39f,
+    #00aea2,
+    #00989e,
+    #008294,
+    #006c84
+  );
+}
+
+.main-box-left {
+  margin: 0px;
+  display: block;
+  width: 48vw;
+  text-align: center;
+}
+.main-box-left h1 {
+  width: 100%;
+  color: white;
+  font-weight: bolder;
+}
+.main-box-left p {
+  margin: 0px;
+  display: block;
+  color: white;
+  font-weight: bolder;
+}
+
+.main-box-right {
+  margin: 0px;
+  display: block;
+  width: 48vw;
+  text-align: center;
+}
+.main-img {
+  max-width: 48vw;
 }
