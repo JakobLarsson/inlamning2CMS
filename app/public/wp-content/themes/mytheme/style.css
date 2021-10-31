@@ -77,3 +77,11 @@ html {
 .main-img {
   max-width: 48vw;
 }
+
+.footer {
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
